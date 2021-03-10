@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="namaapplikasi">WatchMovieTV</string>
+    <string name="ver">V.1.0</string>
+    <string name="title">Title</string>
+    <string name="film">film</string>
+    <string name="genre">Genre</string>
+</resources>
